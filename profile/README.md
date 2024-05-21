@@ -1,2 +1,2 @@
-## About
-`comfyui.ai` can create high quality images of anything you can imagine in seconds–just type in a text prompt and hit Generate.
+## Unleash Creativity with ComfyUI Workflow
+Harness simplicity and community power to build and share apps with ease.
